@@ -1,0 +1,14 @@
+big train started creating
+small train started creating
+Termination began
+book consumer stopped
+pen consumer stopped
+bag consumer stopped
+          pen factory created good: f9cfdf9b-9bbf-44b8-80d8-b6ff04641f26. Time is 727
+          bag factory created good: c3180f38-5e87-4f54-bb69-0c0745d4494d. Time is 727
+          book factory created good: 21c9e901-4f64-4120-a9ce-a9eb5cba68c0. Time is 789
+big train created at 1133
+big train ordered station
+small train created at 1133
+small train ordered station
+big train took a station and started loading goods: book
